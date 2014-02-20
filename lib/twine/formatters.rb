@@ -4,6 +4,7 @@ require 'twine/formatters/apple'
 require 'twine/formatters/flash'
 require 'twine/formatters/gettext'
 require 'twine/formatters/jquery'
+require 'twine/formatters/django'
 
 module Twine
   module Formatters
